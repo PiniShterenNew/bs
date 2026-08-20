@@ -210,7 +210,7 @@ export function HomePage() {
                 תוצאה יציבה
               </span>
             </div>
-            <h2 id="diagnosis-title">בין “משהו לא עובד” לבין פתרון יש אבחון.</h2>
+            <h2 id="diagnosis-title">בין<br />“משהו לא עובד”<br />לבין<br />פתרון יש אבחון.</h2>
             <p>זה הרגע שבו רעש הופך למידע. בודקים, ממקדים ומבינים מה באמת דורש טיפול.</p>
             <div className="diagnosis__states">
               <div><span>לפני</span><strong>תקלות חוזרות<br />חוסר ודאות<br />חשש לקבצים</strong></div>
