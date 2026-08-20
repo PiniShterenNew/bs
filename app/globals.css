@@ -146,7 +146,7 @@ h1, h2 { font-family: var(--font-rubik), var(--font-heebo), sans-serif; font-wei
 .diagnosis__signal__label { display: flex; align-items: center; gap: 10px; margin-top: 18px; color: var(--muted); font: 600 12px var(--font-mono), monospace; letter-spacing: .06em; }
 .diagnosis__signal__label b { color: var(--blue-soft); font-weight: 700; }
 .diagnosis__signal__label i { width: 3px; height: 3px; border-radius: 50%; background: rgb(255 255 255 / 30%); }
-.diagnosis h2 { margin: 0; font-size: clamp(40px, 4.9vw, 70px); line-height: .98; letter-spacing: -.035em; }
+.diagnosis h2 { margin: 0; font-size: clamp(50px, 5.3vw, 78px); line-height: .98; letter-spacing: -.035em; }
 .diagnosis__content > p { max-width: 50ch; margin: 28px 0 0; color: var(--muted); font-size: 16px; line-height: 1.75; }
 .diagnosis__states { display: grid; grid-template-columns: 1fr 44px 1fr; gap: 24px; align-items: center; margin-top: 54px; padding-top: 28px; border-top: 1px solid var(--line); }
 .diagnosis__states > svg { color: var(--blue-soft); }
